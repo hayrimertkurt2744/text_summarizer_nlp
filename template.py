@@ -27,7 +27,7 @@ list_of_files=[
     "Dockerfile",
     "requirements.txt",
     "setup.py",
-    "research/trials.ipnb"
+    "research/trials.ipynb"
 ]
 #Create the files using the list
 for filepath in list_of_files:
